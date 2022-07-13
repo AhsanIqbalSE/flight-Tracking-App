@@ -1,0 +1,26 @@
+{
+  "name": "server-boiler-plate",
+  "version": "1.0.0",
+  "description": "This is Express JS based backend server boiler plate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WahajUlHaq/ServerBoilerPlate.git"
+  },
+  "author": "KODERZ HUB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WahajUlHaq/ServerBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/WahajUlHaq/ServerBoilerPlate#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-router": "^0.0.1",
+    "mongoose": "^5.12.6"
+  }
+}
